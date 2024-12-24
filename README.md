@@ -23,13 +23,13 @@ The **Museum Inventory Management System** is a Java-based application designed 
 
 ## Table of Contents
 1. [Classes](#classes)
-    - [Artifact](#artifact)
-    - [Exhibit](#exhibit)
-    - [Museum](#museum)
-    - [Main](#main)
+    - [Artifact](#1-artifact)
+    - [Exhibit](#2-exhibit)
+    - [Museum](#3-museum)
+    - [Main](#4-main)
 2. [Getting Started](#getting-started)
 3. [Example Usage](#example-usage)
-4. [Future Enhancements](#future-enhancements)
+4. [Future Enhancements](#future-enhancements-)
 
 
 ---
@@ -98,17 +98,17 @@ The CLI provides interactive commands for managing the museum inventory.
 ## Sample images of output:
 
 ### Adding an exhibit
-![img.png](img.png) 
+![img.png](images/img.png) 
 
 ---
 
 ### Adding an artifact to an exhibit:
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 ---
 
 ### Displaying artifacts
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
 
 ---
 
