@@ -1,5 +1,5 @@
 /**
- * @Author: Rudolf Sirbu
+ * @Author: Rudy S
  * Class representing an exhibit in the museum
  */
 

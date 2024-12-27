@@ -1,5 +1,5 @@
 /**
- * @Author: Rudolf Sirbu
+ * @Author: Rudy S
  * Command-line interface for the Museum Inventory Management System
  */
 

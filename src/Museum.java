@@ -1,5 +1,5 @@
 /**
- * @Author: Rudolf Sirbu
+ * @Author: Rudy S
  * Class representing the museum with its collection of exhibits
  */
 import java.util.HashMap;

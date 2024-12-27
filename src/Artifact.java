@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 
 /**
- * @Author: Rudolf Sirbu
+ * @Author: Rudy S
  * Class representing an artifact in the museum
  */
 public class Artifact
