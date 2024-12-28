@@ -1,6 +1,6 @@
 # Museum Inventory Management System
 
-### Author: Rudolf Sirbu
+### Author: Rudy S
 
 ---
 
